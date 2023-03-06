@@ -1,6 +1,5 @@
-[template]
-	repo = gottbrecht/Scripting-for-dummies
-	issue-label = template
+# git config --local include.path ../.gitconfig
+[alias]
 	tree = log --oneline --all --graph
 	co = checkout
 	root = rev-parse --show-toplevel
