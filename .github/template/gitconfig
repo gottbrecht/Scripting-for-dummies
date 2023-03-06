@@ -1,5 +1,5 @@
 [template]
-	repo = kea-dev/social-coding
+	repo = gottbrecht/Scripting-for-dummies
 	issue-label = template
 	tree = log --oneline --all --graph
 	co = checkout
