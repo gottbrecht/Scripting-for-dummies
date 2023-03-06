@@ -1,0 +1,6 @@
+[template]
+	repo = kea-dev/social-coding
+	issue-label = template
+	tree = log --oneline --all --graph
+	co = checkout
+	root = rev-parse --show-toplevel
