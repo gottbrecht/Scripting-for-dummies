@@ -1,0 +1,12 @@
+6
+Create script that pulls headlines from Ekstrabladet RSS feed and saves to directory
+5
+Set up the schedule for the script
+4
+Install JQ Package
+3
+Create script that creates necessary directories
+2
+Test1
+1
+Brainstorm
